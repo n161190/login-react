@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.loginbtn {
+  color: #343150;
+  font-family: 'roboto';
+  font-size: 14px;
+  border: none;
+  border-radius: 20px;
+  background-color: #ffffff;
+}
